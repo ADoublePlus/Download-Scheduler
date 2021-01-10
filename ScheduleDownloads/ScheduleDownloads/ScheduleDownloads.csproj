@@ -67,6 +67,7 @@
     <Compile Include="ScheduleItem.cs" />
     <Compile Include="ScheduleItemFactory.cs" />
     <Compile Include="Scheduler.cs" />
+    <Compile Include="TCPServer.cs" />
     <Compile Include="TCPServerClient.cs" />
     <Compile Include="WebScheduleItem.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

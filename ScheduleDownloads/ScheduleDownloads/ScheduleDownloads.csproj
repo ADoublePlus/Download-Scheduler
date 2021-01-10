@@ -66,6 +66,7 @@
     <Compile Include="Runner.cs" />
     <Compile Include="ScheduleItem.cs" />
     <Compile Include="ScheduleItemFactory.cs" />
+    <Compile Include="Scheduler.cs" />
     <Compile Include="WebScheduleItem.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

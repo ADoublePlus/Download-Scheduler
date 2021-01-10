@@ -58,6 +58,7 @@
     <Compile Include="ListBoxLogger.cs" />
     <Compile Include="LogEventArgs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistryAppSettings.cs" />
     <Compile Include="Runner.cs" />
     <Compile Include="ScheduleItem.cs" />
     <Compile Include="ScheduleItemFactory.cs" />

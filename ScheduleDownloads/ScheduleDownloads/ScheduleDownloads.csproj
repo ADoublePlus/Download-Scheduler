@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppScheduleItemFactory.cs" />
     <Compile Include="AppSettings.cs" />
     <Compile Include="EventLogger.cs" />
     <Compile Include="FtpRunner.cs" />

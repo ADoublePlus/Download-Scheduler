@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppSettings.cs" />
     <Compile Include="EventLogger.cs" />
     <Compile Include="ILogger.cs" />
     <Compile Include="ListBoxLogger.cs" />

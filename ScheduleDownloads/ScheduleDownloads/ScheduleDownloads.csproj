@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="AppSettings.cs" />
     <Compile Include="EventLogger.cs" />
+    <Compile Include="FtpRunner.cs" />
     <Compile Include="FtpScheduleItem.cs" />
     <Compile Include="HttpRunner.cs" />
     <Compile Include="ILogger.cs" />

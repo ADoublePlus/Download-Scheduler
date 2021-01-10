@@ -54,6 +54,7 @@
     <Compile Include="AppScheduleItemFactory.cs" />
     <Compile Include="AppSettings.cs" />
     <Compile Include="EventLogger.cs" />
+    <Compile Include="FormatInterpreter.cs" />
     <Compile Include="FtpRunner.cs" />
     <Compile Include="FtpScheduleItem.cs" />
     <Compile Include="HttpRunner.cs" />

@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="ILogger.cs" />
     <Compile Include="ListBoxLogger.cs" />
+    <Compile Include="LogEventArgs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
